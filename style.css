@@ -1,0 +1,16 @@
+.banniere {
+   background-image: url('bg-desktop-light.jpg');
+   padding: 100px;
+}
+
+body {
+   background-color: white;
+
+}
+
+h1 {
+text-align: center;
+}
+.icon {
+   align-items: end;
+}
